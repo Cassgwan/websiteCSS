@@ -1,0 +1,26 @@
+
+.page .wrapper .site-content, .single .wrapper .site-content {
+    background: #fff0;
+}
+
+.page article {
+    padding: 15px 25px;
+    background-color: #fff0;
+}
+
+.site-branding {
+    padding: 0;
+    background: #fff0;
+}
+
+
+.slicknav_btn {
+		float: centre
+		position: centre
+		background position: center center;
+}
+
+div#content.site-content {
+	background: #fff0;
+}
+
