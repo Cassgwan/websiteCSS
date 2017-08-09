@@ -1,16 +1,20 @@
 
-.page .wrapper .site-content, .single .wrapper .site-content {
-    background: #fff0;
-}
-
 .page article {
     padding: 15px 25px;
-    background-color: #fff0;
+    background-color: rgba(255,255,255,0);
 }
 
 .site-branding {
     padding: 0;
-    background: #fff0;
+    background: rgba(255,255,255,0);
+}
+
+.header-wrapper #site-navigation{
+	border-top: 0px solid #d7d7d7;
+}
+
+.top-header-bar{
+		border-bottom: 0px solid #d7d7d7;
 }
 
 
@@ -21,6 +25,9 @@
 }
 
 div#content.site-content {
-	background: #fff0;
+	background: rgba(255,255,255,0);
 }
+
+//These are the background settings to get it to fit to the size of the screen
+background-position: center center; background-size: cover; background-repeat: no-repeat; background-attachment: local;
 
